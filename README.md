@@ -25,7 +25,7 @@ menghasilkan laporan jurnal secara otomatis.
 - Sistem routing custom (`route.php`)
 
 ## 📂 Struktur Project
-'''
+```
 asia/
 ├── app/
 │   ├── controllers/
@@ -42,7 +42,7 @@ asia/
 ├── db_asia.sql
 ├── query_jurnal.sql
 └── route.php
-'''
+```
 
 ## ⚙️ Setup Lokal
 1. Clone repository ini
