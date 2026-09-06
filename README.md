@@ -1,7 +1,3 @@
-# Web-Based-Accounting-Journal-System
-
-Sistem pencatatan jurnal akuntansi berbasis web, dibangun untuk tugas mata kuliah Pemrograman Komputer Akuntansi, Program Stusi Akuntansi, Universitas Andalas.
-
 # Web-Based Accounting Journal System
 
 Sistem pencatatan jurnal akuntansi berbasis web, dibangun untuk tugas mata kuliah 
