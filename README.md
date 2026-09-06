@@ -25,22 +25,24 @@ menghasilkan laporan jurnal secara otomatis.
 - Sistem routing custom (`route.php`)
 
 ## 📂 Struktur Project
+'''
 asia/
 ├── app/
-│ ├── controllers/
-│ ├── helpers/
-│ ├── models/
-│ └── views/
+│   ├── controllers/
+│   ├── helpers/
+│   ├── models/
+│   └── views/
 ├── public/
 ├── system/
-│ ├── Database.php
-│ ├── General.php
-│ ├── Routing.php
-│ └── Session.php
-├── cnf.php # Konfigurasi database
-├── db_asia.sql # Struktur database
-├── query_jurnal.sql # Query jurnal akuntansi
+│   ├── Database.php
+│   ├── General.php
+│   ├── Routing.php
+│   └── Session.php
+├── cnf.php
+├── db_asia.sql
+├── query_jurnal.sql
 └── route.php
+'''
 
 ## ⚙️ Setup Lokal
 1. Clone repository ini
